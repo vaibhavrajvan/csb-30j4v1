@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vaibhavrajvan.github.io/csb-30j4v1/static/css/main.0b2186a8.chunk.css",
+    "main.js": "https://vaibhavrajvan.github.io/csb-30j4v1/static/js/main.838c6698.chunk.js",
+    "main.js.map": "https://vaibhavrajvan.github.io/csb-30j4v1/static/js/main.838c6698.chunk.js.map",
+    "runtime-main.js": "https://vaibhavrajvan.github.io/csb-30j4v1/static/js/runtime-main.5c04c416.js",
+    "runtime-main.js.map": "https://vaibhavrajvan.github.io/csb-30j4v1/static/js/runtime-main.5c04c416.js.map",
+    "static/js/2.7abb9a44.chunk.js": "https://vaibhavrajvan.github.io/csb-30j4v1/static/js/2.7abb9a44.chunk.js",
+    "static/js/2.7abb9a44.chunk.js.map": "https://vaibhavrajvan.github.io/csb-30j4v1/static/js/2.7abb9a44.chunk.js.map",
+    "index.html": "https://vaibhavrajvan.github.io/csb-30j4v1/index.html",
+    "static/css/main.0b2186a8.chunk.css.map": "https://vaibhavrajvan.github.io/csb-30j4v1/static/css/main.0b2186a8.chunk.css.map",
+    "static/js/2.7abb9a44.chunk.js.LICENSE.txt": "https://vaibhavrajvan.github.io/csb-30j4v1/static/js/2.7abb9a44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c04c416.js",
+    "static/js/2.7abb9a44.chunk.js",
+    "static/css/main.0b2186a8.chunk.css",
+    "static/js/main.838c6698.chunk.js"
+  ]
+}
